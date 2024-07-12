@@ -11,4 +11,4 @@ The guide assumes you already setup ```theos``` and perhaps, ```brew```.
 1. Download this as a .zip file.
 2. Navigate to ```$THEOS/sdks```.
 3. Unzip all the SDKs into above folder.
-4. Make sure to edit your project's ```Makefile``` properly to avoid compilling errors.
+Make sure to edit your project's ```Makefile``` properly to avoid compilling errors.
